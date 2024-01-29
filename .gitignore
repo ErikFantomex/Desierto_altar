@@ -152,8 +152,13 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-# Morena Sonora
+# Cdd
 .env
 /INE
 /INEGI
 /extra
+
+
+git config --global user.email "a217213318@unison.mx"
+git config --global user.name "ErikFantomex"
+#
