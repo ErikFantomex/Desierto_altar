@@ -8,7 +8,7 @@
     overflow: auto;
   }
   
-  #map {
+#map {
     height: 100vh;
     width: 55vw
   }
