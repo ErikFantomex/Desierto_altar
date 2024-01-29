@@ -18,7 +18,7 @@ function init(){
       }
     }
     const addAllPlacesToMap=(json)=>{
-      console.log(json)
+      let places = L.geoJSON(json,{}).addTo(map)
     }
     fetchGetRequest('/api/v1/places',addAllPlacesToMap)
   
