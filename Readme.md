@@ -1,18 +1,24 @@
-# Camellón botanico  Project
+# 🌱 Proyecto de Automatización de Riego Basado en Humedad del Suelo 🚿
 
-## Overview
-The Panteón Memorial Project, initiated in 2019, is an ambitious initiative to transform 22 hectares into an urban natural sanctuary. Nestled within the city, this green lung offers 10 kilometers of trails amidst 500 planted trees, inviting the community to reconnect with nature. Our weekly irrigation activities underscore our dedication to sustainability and the nurturing of this vital space.
+## Objetivo 🎯
+Optimizar el riego mediante la automatización basada en la detección de niveles de humedad del suelo, reduciendo el trabajo manual y mejorando la eficiencia del uso del agua 💧.
 
-## Upcoming Medium Article
-Join us in our upcoming Medium post where we dive into the enthralling realm of web cartography. Discover how this technology enhances the visibility and impact of conservation projects.
+## Beneficios 🌟
+1. Automatización completa del sistema de riego 🤖.
+2. Uso eficiente del agua mediante riego por goteo activado por sensores de humedad 💦.
+3. Monitoreo de la salud del sistema de riego con notificaciones de fallos 🔔.
+4. Comunicación entre sensores para gestión centralizada de datos 📡.
 
-## Technologies
-Our journey will introduce you to **Leaflet**, a JavaScript library that brings elegant and efficient web mapping solutions to digital platforms. Alongside **pynaturalist**, which enables us to engage with biodiversity observations, we will leverage **GeoDjango** and **Django REST** frameworks for seamless management and presentation of geospatial data. The integration of **PostGIS**, an advanced geographic database system, completes our toolkit.
+## Implementación 🔨
+- **Sensores de Humedad**: Colocados a diversas profundidades para medir la humedad del suelo y activar el riego según la necesidad de cada tipo de planta 🌺.
+- **Infraestructura Verde**: Utilización de cuencas para infiltrar agua de lluvia y complementar el riego, minimizando la necesidad de riego adicional 🌦.
+- **Estudio de Variables**: Evaluación de combinaciones de estructuras verdes y tipos de plantas para identificar las más eficaces 📊.
 
-Stay tuned for an insightful exploration of these technologies that power our web dashboard, serving as both an educational portal and conservation tool.
+## Área de Estudio 📚
+El camellón servirá como área principal de estudio para experimentar con diferentes condiciones: presencia/ausencia de riego, diferentes tipos de plantas, y uso de acolchado.
 
----
+## Rol del Equipo 👥
+- **Adrian y Fernando**: Aportarán conocimientos en infraestructura verde y selección de plantas 🌳.
+- **Automatización**: Inicialmente, los sensores estarán directamente conectados a la línea de agua, simplificando la implementación del proyecto 💧🔌.
 
-Interested in contributing or learning more? Reach out to us through our [GitHub repository](#) or [contact page](#) (links to be updated with actual URLs).
-
-Let's make a difference, one tree at a time. 🌳
+Este proyecto busca no solo mejorar la eficiencia en el uso del agua sino también proporcionar datos valiosos sobre las prácticas de riego más efectivas 💡.
