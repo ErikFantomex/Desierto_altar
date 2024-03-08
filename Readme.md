@@ -1,5 +1,4 @@
 # Camellón botanico  Project
-![Logo Variant 1](logos/memorial.png)
 
 ## Overview
 The Panteón Memorial Project, initiated in 2019, is an ambitious initiative to transform 22 hectares into an urban natural sanctuary. Nestled within the city, this green lung offers 10 kilometers of trails amidst 500 planted trees, inviting the community to reconnect with nature. Our weekly irrigation activities underscore our dedication to sustainability and the nurturing of this vital space.
