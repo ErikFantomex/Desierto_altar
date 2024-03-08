@@ -1,4 +1,4 @@
-# Panteón Memorial Project
+# Camellón botanico  Project
 ![Logo Variant 1](logos/memorial.png)
 
 ## Overview
